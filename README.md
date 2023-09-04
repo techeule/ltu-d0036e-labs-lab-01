@@ -27,6 +27,15 @@ pip3 install --requirement=requirements.txt
 python -m unittest discover -v discover -s . -p "task1_*_test.py"
 ```
 
+## How to run task 2
+
+```shell
+#Optional to active the environment, if it was already activated in the current terminal session, otherwise execute
+# source ./venv/bin/activate
+
+python -m lab1.task2
+```
+
 ## How to start and run
 
 ```shell
