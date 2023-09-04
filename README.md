@@ -45,13 +45,40 @@ python -m lab1.task2
 python -m lab1.task3
 ```
 
-## How to run task 3
+## How to run task 4
 
 ```shell
 #Optional to active the environment, if it was already activated in the current terminal session, otherwise execute
 # source ./venv/bin/activate
 
 python -m lab1.task4
+```
+
+## How to run exercise 3-2
+
+```shell
+#Optional to active the environment, if it was already activated in the current terminal session, otherwise execute
+# source ./venv/bin/activate
+
+python -m lab1.thinkpython.exercise_3_2
+```
+
+## How to run exercise 5-3
+
+```shell
+#Optional to active the environment, if it was already activated in the current terminal session, otherwise execute
+# source ./venv/bin/activate
+
+python -m lab1.thinkpython.exercise_5_3
+```
+
+## How to run exercise 8-4
+
+```shell
+#Optional to active the environment, if it was already activated in the current terminal session, otherwise execute
+# source ./venv/bin/activate
+
+python -m lab1.thinkpython.exercise_8_4
 ```
 
 ## How to start and run
