@@ -18,6 +18,15 @@ source ./venv/bin/activate
 pip3 install --requirement=requirements.txt
 ```
 
+## How to run task 1, 
+
+```shell
+#Optional to active the environment, if it was already activated in the current terminal session, otherwise execute
+# source ./venv/bin/activate
+
+python -m unittest discover -v discover -s . -p "task1_*_test.py"
+```
+
 ## How to start and run
 
 ```shell
